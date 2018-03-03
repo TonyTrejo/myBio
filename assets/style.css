@@ -1,0 +1,18 @@
+body {
+    background: black;
+
+}
+
+div.container {
+    background: slategray;
+    text-align: left;
+
+}
+p.caption {
+    text-align: right;
+}
+
+p.list {
+    color: darkgreen;
+    background: darkslategray;
+}
